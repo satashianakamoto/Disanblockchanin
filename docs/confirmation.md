@@ -5,6 +5,7 @@
 ## 1. Thông tin chủ tài sản (đã được ẩn/masked)
 - **Họ và tên:** NGUYEN NAM ANH
 - **Tỷ lệ sở hữu:** 100% (Chủ tài khoản duy nhất)
+- **Quyền rút tiền:** Chỉ duy nhất **NGUYEN NAM ANH** có quyền rút tiền; **KHÔNG** ủy quyền cho bất kỳ tổ chức hay cá nhân nào.
 - **Ngày sinh:** 03/11/1987
 - **Số ID (CMND/CCCD):** [MASKED: ***6324]  
 - **Địa chỉ thường trú:** [MASKED: 122/05 Vinh Phu Hamlet, Vinh Thanh Trung Commune, Chau Phu, An Giang, VN]
@@ -18,7 +19,7 @@
 - **Mã ngân hàng:** BIDVVNVX
 - **Loại tiền nhận:** USD, EUR
 
-> **Khẳng định:** Tôi là **chủ sở hữu 100%** của tài khoản nhận cổ tức nêu trên và cam kết **chỉ có một tài khoản nhận cổ tức** (như trên). Mọi tài khoản khác tuyên bố là của tôi đều là **bất hợp pháp / gian lận**.
+> **Khẳng định:** Tôi là **chủ sở hữu 100%** của tài khoản nhận cổ tức nêu trên và cam kết **chỉ có một tài khoản nhận cổ tức** (như trên). Mọi tài khoản khác tuyên bố là của tôi đều là **bất hợp pháp / gian lận**. Tôi **KHÔNG ủy quyền** cho bất kỳ tổ chức hoặc cá nhân nào được quyền rút tiền thay cho tôi; chỉ duy nhất **NGUYEN NAM ANH** được quyền rút tiền từ tài khoản này.
 
 ---
 
@@ -51,6 +52,7 @@ I, **NGUYEN NAM ANH** (DOB: 03/11/1987), ID No. [MASKED: ***6324] (issued on [..
 2. Account number: **[MASKED: ****4867]**.
 3. I confirm **I have only one dividend receiving account** and that the information provided is true and correct. Any other accounts claiming my assets are **fraudulent**.
 4. I confirm I am the **100% owner** of the account and any related dividends.
+5. I DO NOT authorize any individual or organization to withdraw funds on my behalf; ONLY **NGUYEN NAM ANH** is authorized to withdraw funds from this account.
 
 Date: ......
 
